@@ -5,7 +5,7 @@
 
 **By Carlos Henríquez**
 
-<img src="images/book-cover.jpg" alt="The Pocket AI Guide book cover" width="220" align="right">
+<img src="Cover_PocketAIGuide.png" alt="The Pocket AI Guide book cover" width="220" align="right">
 
 Welcome to the official companion repository for **The Pocket AI Guide**, the first publication in the Pocket Guide series.
 
