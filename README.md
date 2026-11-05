@@ -5,6 +5,8 @@
 
 **By Carlos Henríquez**
 
+🌐 **[Visit the official Blank Terminal website](https://blankterminal.no/)**
+
 <img src="Cover_PocketAIGuide.png" alt="The Pocket AI Guide book cover" width="220" align="right">
 
 Welcome to the official companion repository for **The Pocket AI Guide**, the first publication in the Pocket Guide series.
