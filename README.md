@@ -30,7 +30,7 @@ additional opportunities for practical learning.
 
 | Resource | Description | PDF |
 |---|---|---|
-| Resource 01 | Coming soon |  |
+| 001 — AI Project Kickoff Checklist | 10 questions to ask before starting an AI-assisted project. |[Download PDF](resources/001PAIG_ProjectChecklistv62110.pdf) |
 | Resource 02 | Coming soon |  |
 | Resource 03 | Coming soon |  |
 | Resource 04 | Coming soon |  |
